@@ -370,7 +370,7 @@ tabs = st.tabs([
     "📈 TAB 2 — EEG ANALYSIS",
     "⏱️ TAB 3 — TEMPORAL PROGRESSION",
     "🔗 TAB 4 — RELATIONSHIP ANALYSIS",
-    "📝 Generated Form",
+    "📄 TAB 5 — GENERATED FORM",
     "🧪 TAB 6 — EVIDENCE & EVALUATION",
 ])
 
